@@ -2,8 +2,6 @@
 
 Este proyecto es una aplicación sencilla en JavaScript que permite **calcular el Índice de Masa Corporal (IMC)** de una persona y mostrar el rango correspondiente según los estándares de la **Organización Mundial de la Salud (OMS)**.
 
----
-
 ## Reto Semana 5
 
 Crear un programa que:
@@ -23,14 +21,10 @@ Crear un programa que:
 | Obesidad grado 2         | 35 ≤ IMC < 39.9      |
 | Obesidad grado 3         | IMC ≥ 40             |
 
----
-
 ## Tecnologías
 
 - HTML
 - JavaScript
-
----
 
 ## Estructura del Proyecto
 
@@ -42,15 +36,11 @@ calculadoraIMC/
 
 └── README.md // Este archivo
 
----
-
 ## Cómo usar
 
 1. Abre el archivo index.html en un navegador.
 2. El script catalogoProductos.js se ejecuta automáticamente.
 3. Abre la consola del navegador para ver los resultados.
-
----
 
 ## Ejemplo de ejecución en consola
 - Por favor, ingrese su peso (kg): 70
@@ -59,4 +49,3 @@ calculadoraIMC/
 - Su altura ingresada es: 1.75m
 - Su IMC es: 22.86
 - Usted se encuentra en el rango de peso normal.
-
